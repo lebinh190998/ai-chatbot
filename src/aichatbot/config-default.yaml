@@ -1,0 +1,10 @@
+####################
+# SERVER           #
+####################
+DEBUG: true
+TEST_KEEP_DB: false
+DOCS_URL_PREFIX: /aichatbot
+
+MAXIMUM_REQUEST_LENGTH: 50
+
+MAX_ATTEMPTS: 10

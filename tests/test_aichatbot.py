@@ -1,4 +1,4 @@
-from ai_chatbot import __version__
+from aichatbot import __version__
 
 
 def test_version():
